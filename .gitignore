@@ -17,6 +17,7 @@ asm/
 journeymap/
 logs/
 resourcepacks/
+*.errored
 # Ignore World New World Creation #
 ###################################
 saves/
